@@ -292,4 +292,14 @@ From this project you understand:
 * Difference between cloud and local models
 * Backend-Frontend LLM communication
 
+## Support
 
+For support, email saikamal9797@gmail.com .
+
+## 🔗 Links
+
+For my work you can follow:
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-kamal-korlakunta-a81326163/)
+
+[Medium](https://medium.com/@korlakuntasaikamal10)
